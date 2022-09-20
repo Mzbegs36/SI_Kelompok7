@@ -1,0 +1,32 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #E8E8CC;
+ 
+  }
+
+table {
+    background-color: white;
+    width: 100%;
+}
+
+tr:hover {background-color: grey;}
+
+tr {
+    color: black;
+}
+
+th {
+    background-color: #116530;
+    color: white;
+  }
+
+div {
+    background-color: #0B4619;
+    color: white;
+    padding: 5px 20px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    text-align:center;
+}
