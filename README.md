@@ -5,3 +5,8 @@ Langkah :
 1. donlot file
 2. import database inventaris_kantor.sql
 3. pindah file sisanya ke htdocs
+
+
+untuk admin :
+username :admin
+password :@admin123
